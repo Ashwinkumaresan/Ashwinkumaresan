@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ashwin, a passionate frontend developer and tech enthusiast. I enjoy creating clean, responsive, and user-friendly interfaces, while continuously exploring new technologies and frameworks to sharpen my skills.<br><br>🔧 Tech I'm Familiar With:<br>Languages: HTML, CSS, JavaScript, Java<br><br>Frameworks & Libraries: ReactJS, Bootstrap<br><br>Tools: Figma, VS Code, Git, GitHub, MongoDB Compass<br><br>🚀 What I'm Working On:<br>A blog application using React, MongoDB, and Markdown support<br><br>A gaming UI project called The FutureN with a dark theme interface<br><br>Building functional pages for multiple projects including product pages, gallery pages, placement pages, and more<br><br>📚 What I'm Learning:<br>Advanced React concepts and state management<br><br>MongoDB database handling<br><br>UI/UX design principles for improved user experience<br><br><br>
+Hi, I'm Ashwin, a passionate frontend developer and tech enthusiast. I enjoy creating clean, responsive, and user-friendly interfaces, while continuously exploring new technologies and frameworks to sharpen my skills.
 
 
 ## 🌐 Socials:
